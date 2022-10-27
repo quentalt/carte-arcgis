@@ -1,5 +1,4 @@
-import React from "react";
-import { Component } from "react/cjs/react.production.min";
+import React,{ Component } from 'react';
 import { loadModules } from "esri-loader";
 import { loadCss } from "esri-loader";
 
