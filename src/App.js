@@ -5,7 +5,7 @@ import { loadCss } from "esri-loader";
 loadCss("https://js.arcgis.com/4.24/esri/themes/light/main.css")
 
 const options = {
-  url: "https://js.arcgis.com/4.24/"
+  url: "https://js.arcgis.com/4.27/"
 };
 
 const styles = {
